@@ -1,0 +1,17 @@
+fastapi[all]==0.98.0
+pinecone-client[grpc]==2.2.2
+openai==0.27.8
+langchain==0.0.216
+tiktoken
+requests==2.31.0
+beautifulsoup4==4.12.2
+scrapy==2.9.0
+psycopg2==2.9.6
+PyPDF2==3.0.1
+selenium
+unstructured
+requests_mock
+sentencepiece
+clyent==1.2.1
+nbformat==5.4.0
+requests
